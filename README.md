@@ -22,8 +22,8 @@ Welcome to my GitHub! I'm a passionate **Web & Software Developer** who loves to
 
 ## 📫 Connect with Me
 
-- [LinkedIn: Omar Hashem](https://www.linkedin.com/in/omar-hashem-80b808265/)
+- [Email](mailto:oh90002@gmail.com)
 
 ---
 
-Thanks for stopping by! Feel free to check out my projects above or connect with me for collaboration, ideas, or just a chat.
+Thanks for visiting! 🚀 Explore my projects, and let’s connect if you’d like to collaborate on innovative ideas, contribute to open-source, or discuss new opportunities.
